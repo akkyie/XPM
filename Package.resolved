@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "console-kit",
+        "repositoryURL": "https://github.com/vapor/console-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "535874e4654b17cebb422b9e17353e85d421a118",
+          "version": "4.0.0-beta.2"
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "74d7b91ceebc85daf387ebb206003f78813f71aa",
+          "version": "1.2.0"
+        }
+      },
+      {
+        "package": "swift-tools-support-core",
+        "repositoryURL": "https://github.com/apple/swift-tools-support-core",
+        "state": {
+          "branch": "master",
+          "revision": "37f8314c93c87ef9a66451dd2f3a59dfb59c6487",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
